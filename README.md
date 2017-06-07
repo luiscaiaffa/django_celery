@@ -5,7 +5,7 @@
 
 Clone the source:
 
-    $ git clone https://github.com/caiaffa/pagarme-python.git
+    $ git clone https://github.com/luiscaiaffa/django_celery.git
     
 Execute:
 
