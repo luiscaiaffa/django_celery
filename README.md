@@ -1,4 +1,4 @@
-# pagar.me
+# django_celery
 
 
 ## Installation
